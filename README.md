@@ -6,3 +6,5 @@
  Entonces tengo que pegar acá esto
 
  Posteriormente hay que integrar los Ases dentro del proyecto que se descomprimen los ases y se guardan en el proyecto dentro de la carpeta Ases reinscribiéndolo la variable que ya estén ahí o no Nose eso hay que revisarlo pero va dentro de la carpeta y también hay que hacer lo mismo con la carpeta web
+
+Para dar el control de lo que ya están exportados se le agrega el Tag BackUp Done
